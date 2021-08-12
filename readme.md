@@ -1,4 +1,4 @@
-## About Fakegram
+# About Fakegram
 
 An attempt to recreate the instagram website.
 
